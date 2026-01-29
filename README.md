@@ -1,5 +1,5 @@
 # 🎸 Proyecto SQL Rock  
-**El papel del rock en tiempos de streaming**
+** "El papel del rock en tiempos de streaming" **
 
 ## 📌 Descripción del proyecto
 Este proyecto analiza la evolución del **rock** a lo largo del tiempo combinando datos históricos de **Billboard Hot 100** con métricas actuales de **Spotify**.  
