@@ -42,3 +42,48 @@ Se utilizan principalmente **INNER JOINs** para:
 - Cruzar popularidad actual (Spotify) con datos históricos
 - Filtrar únicamente artistas clasificados como rock
 
+## 📐 Visualización de resultados## 
+
+Los resultados se presentan mediante slides visuales, incluyendo:
+
+- Gráficos de barras por décadas (Billboard vs Spotify)
+
+- Comparación de popularidad media
+
+- Rankings de artistas más escuchados
+
+Las visualizaciones se realizaron con Canva, manteniendo coherencia visual y narrativa.
+
+##🛠️ Tecnologías utilizadas##
+
+- **Python**:
+  - pandas
+    
+- **MySQL**:
+  - MySQL Workbench
+ 
+- **SQL**:
+  - Joins
+  - Group By
+  - Funciones de agregación
+
+- **Canva**:
+  - Visualización de datos
+ 
+## ⚠️ Limitaciones ##
+
+Billboard solo refleja rankings históricos y no consumo real actual.
+
+La clasificación de géneros depende de etiquetas de Spotify.
+
+No se incluyen datos de streaming históricos anteriores a Spotify.
+
+## 🚀 Posibles mejoras futuras ##
+
+Incorporar datos de otras plataformas (Apple Music, YouTube).
+
+Analizar subgéneros del rock.
+
+Estudiar tendencias por país o región.
+
+Crear dashboards interactivos.
