@@ -1,5 +1,5 @@
 # 🎸 Proyecto SQL Rock  
-** "El papel del rock en tiempos de streaming" **
+  **"El papel del rock en tiempos de streaming"**
 
 ## 📌 Descripción del proyecto
 Este proyecto analiza la evolución del **rock** a lo largo del tiempo combinando datos históricos de **Billboard Hot 100** con métricas actuales de **Spotify**.  
@@ -32,7 +32,7 @@ Se trabajó con un **modelo relacional normalizado**, centrado en la entidad `ar
   - Artistas clasificados como rock
   - `artist_id` (FK)
 
-Todas las tablas están relacionadas mediante **claves foráneas (`artist_id`)**, lo que permite realizar joins consistentes y análisis cruzados.
+Todas las tablas están relacionadas mediante **Foreign Keys (`artist_id`)**, lo que permite realizar joins consistentes y análisis cruzados.
 
 ---
 
