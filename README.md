@@ -41,8 +41,10 @@ Se utilizan principalmente **INNER JOINs** para:
 - Relacionar artistas con su presencia histórica en Billboard
 - Cruzar popularidad actual (Spotify) con datos históricos
 - Filtrar únicamente artistas clasificados como rock
+  
+---
 
-## 📐 Visualización de resultados## 
+## 📐 Visualización de resultados ## 
 
 Los resultados se presentan mediante slides visuales, incluyendo:
 
@@ -54,7 +56,9 @@ Los resultados se presentan mediante slides visuales, incluyendo:
 
 Las visualizaciones se realizaron con Canva, manteniendo coherencia visual y narrativa.
 
-##🛠️ Tecnologías utilizadas##
+---
+
+## 🛠️ Tecnologías utilizadas ##
 
 - **Python**:
   - pandas
@@ -70,6 +74,8 @@ Las visualizaciones se realizaron con Canva, manteniendo coherencia visual y nar
 - **Canva**:
   - Visualización de datos
  
+---    
+ 
 ## ⚠️ Limitaciones ##
 
 Billboard solo refleja rankings históricos y no consumo real actual.
@@ -77,6 +83,8 @@ Billboard solo refleja rankings históricos y no consumo real actual.
 La clasificación de géneros depende de etiquetas de Spotify.
 
 No se incluyen datos de streaming históricos anteriores a Spotify.
+
+---
 
 ## 🚀 Posibles mejoras futuras ##
 
