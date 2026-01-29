@@ -1,9 +1,6 @@
 -- CREATE DATABASE proyecto_sql_rock; 
 USE proyecto_sql_rock; 
 
-SELECT *
-FROM rock_clean;
-
 -- Creando tabla artist and PRIMARY KEY
 DROP TABLE IF EXISTS artists;
 CREATE TABLE artists (
